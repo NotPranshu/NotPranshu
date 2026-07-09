@@ -1,4 +1,6 @@
-<img width="270" height="480" alt="giphy" src="https://github.com/user-attachments/assets/83809b89-e4d1-4170-964f-a5bc4f601b45" />
+<img width="308" height="200" alt="200" src="https://github.com/user-attachments/assets/9828d8e7-9e2b-4f5f-b745-33053a988d0e" />
+
+
 # 💫 About Me:
 🎓1st Year Computer Science student with a second Major in Accounting  .<br>💻 Passionate about building practical, user-focused software and web applications.<br>🌐 Interested in full-stack development and modern web technologies.<br>🎨 Enjoy designing clean, responsive, and intuitive user interfaces.<br>🛠 Love turning ideas into real-world projects through code.<br>🌱 Continuously learning new technologies and improving my development skills.<br>🧩 Enjoy solving complex problems with creative and efficient solutions.<br>🚀 Currently expanding my knowledge of web development, backend systems, and cloud technologies.<br>🤝 Open to collaborating on projects and contributing to the developer community.
 
